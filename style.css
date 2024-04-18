@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    }
+    .quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    }
+    #pergunta {
+    font-weight: bold;
+    margin-bottom: 10px;
+    }
+    .opcao {
+    display: block;
+    margin: 10px auto;
+    }
+    #resultado {
+    margin-top: 20px;
+    font-weight: bold;
+    }
+    
